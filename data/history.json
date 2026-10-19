@@ -1,0 +1,3478 @@
+{
+  "draws": [
+    {
+      "date": "2006-01-16",
+      "first": "432747",
+      "last2": "79",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-02-01",
+      "first": "412729",
+      "last2": "87",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-02-16",
+      "first": "317009",
+      "last2": "66",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-03-01",
+      "first": "582473",
+      "last2": "43",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-03-16",
+      "first": "936177",
+      "last2": "30",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-04-01",
+      "first": "738365",
+      "last2": "95",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-04-16",
+      "first": "038564",
+      "last2": "49",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-05-02",
+      "first": "024554",
+      "last2": "27",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-05-16",
+      "first": "100344",
+      "last2": "71",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-06-01",
+      "first": "810850",
+      "last2": "99",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-06-16",
+      "first": "100935",
+      "last2": "17",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-07-01",
+      "first": "952890",
+      "last2": "65",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-07-16",
+      "first": "512434",
+      "last2": "48",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-08-01",
+      "first": "238654",
+      "last2": "88",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-08-16",
+      "first": "977486",
+      "last2": "91",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-09-01",
+      "first": "381761",
+      "last2": "44",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-09-16",
+      "first": "217948",
+      "last2": "41",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-10-01",
+      "first": "952335",
+      "last2": "92",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-10-16",
+      "first": "264825",
+      "last2": "58",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-11-01",
+      "first": "910957",
+      "last2": "29",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-11-16",
+      "first": "562856",
+      "last2": "94",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-12-01",
+      "first": "270052",
+      "last2": "12",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-12-16",
+      "first": "147977",
+      "last2": "45",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2006-12-30",
+      "first": "778584",
+      "last2": "07",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-01-16",
+      "first": "838739",
+      "last2": "55",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-02-01",
+      "first": "769925",
+      "last2": "56",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-02-16",
+      "first": "277859",
+      "last2": "95",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-03-01",
+      "first": "742425",
+      "last2": "61",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-03-16",
+      "first": "876763",
+      "last2": "85",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-04-01",
+      "first": "622780",
+      "last2": "93",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-04-16",
+      "first": "405105",
+      "last2": "63",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-05-02",
+      "first": "430374",
+      "last2": "81",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-05-16",
+      "first": "232897",
+      "last2": "25",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-06-01",
+      "first": "836393",
+      "last2": "05",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-06-16",
+      "first": "393194",
+      "last2": "41",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-07-01",
+      "first": "565151",
+      "last2": "76",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-07-16",
+      "first": "527384",
+      "last2": "77",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-08-01",
+      "first": "429924",
+      "last2": "29",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-08-16",
+      "first": "476207",
+      "last2": "93",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-09-01",
+      "first": "331810",
+      "last2": "69",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-09-16",
+      "first": "499336",
+      "last2": "45",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-10-01",
+      "first": "430667",
+      "last2": "76",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-10-16",
+      "first": "032988",
+      "last2": "48",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-11-01",
+      "first": "927907",
+      "last2": "88",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-11-16",
+      "first": "562481",
+      "last2": "73",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-12-01",
+      "first": "113410",
+      "last2": "18",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-12-16",
+      "first": "513501",
+      "last2": "96",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2007-12-30",
+      "first": "595411",
+      "last2": "81",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-01-16",
+      "first": "556010",
+      "last2": "81",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-02-01",
+      "first": "212684",
+      "last2": "26",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-02-16",
+      "first": "137054",
+      "last2": "80",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-03-01",
+      "first": "936685",
+      "last2": "05",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-03-16",
+      "first": "074946",
+      "last2": "33",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-04-01",
+      "first": "012653",
+      "last2": "71",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-04-16",
+      "first": "982800",
+      "last2": "64",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-05-02",
+      "first": "453011",
+      "last2": "62",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-05-16",
+      "first": "329231",
+      "last2": "69",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-06-01",
+      "first": "414875",
+      "last2": "35",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-06-16",
+      "first": "729111",
+      "last2": "75",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-07-01",
+      "first": "943671",
+      "last2": "50",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-07-16",
+      "first": "257374",
+      "last2": "41",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-08-01",
+      "first": "850348",
+      "last2": "11",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-08-16",
+      "first": "380377",
+      "last2": "36",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-09-01",
+      "first": "695993",
+      "last2": "09",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-09-16",
+      "first": "012377",
+      "last2": "56",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-10-01",
+      "first": "882911",
+      "last2": "67",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-10-16",
+      "first": "431277",
+      "last2": "98",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-11-01",
+      "first": "272028",
+      "last2": "76",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-11-16",
+      "first": "002612",
+      "last2": "20",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-12-01",
+      "first": "205434",
+      "last2": "05",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-12-16",
+      "first": "074114",
+      "last2": "25",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2008-12-30",
+      "first": "218596",
+      "last2": "22",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-01-16",
+      "first": "743212",
+      "last2": "25",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-02-01",
+      "first": "534533",
+      "last2": "69",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-02-16",
+      "first": "038730",
+      "last2": "93",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-03-01",
+      "first": "553091",
+      "last2": "67",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-03-16",
+      "first": "268812",
+      "last2": "36",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-04-01",
+      "first": "816578",
+      "last2": "50",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-04-16",
+      "first": "368415",
+      "last2": "33",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-05-02",
+      "first": "294452",
+      "last2": "11",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-05-16",
+      "first": "111411",
+      "last2": "54",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-06-01",
+      "first": "777661",
+      "last2": "26",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-06-16",
+      "first": "930456",
+      "last2": "15",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-07-01",
+      "first": "207542",
+      "last2": "66",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-07-16",
+      "first": "000816",
+      "last2": "94",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-08-01",
+      "first": "154986",
+      "last2": "92",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-08-16",
+      "first": "462933",
+      "last2": "96",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-09-01",
+      "first": "015865",
+      "last2": "32",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-09-16",
+      "first": "202912",
+      "last2": "48",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-10-01",
+      "first": "169387",
+      "last2": "06",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-10-16",
+      "first": "258487",
+      "last2": "00",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-11-01",
+      "first": "689140",
+      "last2": "85",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-11-16",
+      "first": "055986",
+      "last2": "58",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-12-01",
+      "first": "776980",
+      "last2": "59",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-12-16",
+      "first": "685141",
+      "last2": "05",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2009-12-30",
+      "first": "994304",
+      "last2": "87",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2010-01-16",
+      "first": "073577",
+      "last2": "67",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2010-02-01",
+      "first": "186312",
+      "last2": "14",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2010-02-16",
+      "first": "133707",
+      "last2": "03",
+      "source": "supplement",
+      "sourceUrl": "https://github.com/zugetor/Machine-Learning-for-thai-Lottery"
+    },
+    {
+      "date": "2010-03-01",
+      "first": "215227",
+      "last2": "97",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-03-16",
+      "first": "364222",
+      "last2": "97",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-04-01",
+      "first": "959517",
+      "last2": "22",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-04-16",
+      "first": "211743",
+      "last2": "96",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-05-02",
+      "first": "360371",
+      "last2": "06",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-05-16",
+      "first": "480012",
+      "last2": "12",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-06-01",
+      "first": "444874",
+      "last2": "81",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-06-16",
+      "first": "500104",
+      "last2": "73",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-07-01",
+      "first": "480239",
+      "last2": "68",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-07-16",
+      "first": "180387",
+      "last2": "34",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-08-01",
+      "first": "210008",
+      "last2": "10",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-08-16",
+      "first": "911097",
+      "last2": "64",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-09-01",
+      "first": "354656",
+      "last2": "11",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-09-16",
+      "first": "017422",
+      "last2": "66",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-10-01",
+      "first": "488372",
+      "last2": "02",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-10-16",
+      "first": "621377",
+      "last2": "42",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-11-01",
+      "first": "191100",
+      "last2": "59",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-11-16",
+      "first": "813993",
+      "last2": "43",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-12-01",
+      "first": "181752",
+      "last2": "09",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-12-16",
+      "first": "334380",
+      "last2": "24",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2010-12-30",
+      "first": "884112",
+      "last2": "49",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-01-16",
+      "first": "281062",
+      "last2": "23",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-02-01",
+      "first": "610089",
+      "last2": "55",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-02-16",
+      "first": "481746",
+      "last2": "27",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-03-01",
+      "first": "656037",
+      "last2": "97",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-03-16",
+      "first": "593331",
+      "last2": "96",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-04-01",
+      "first": "814931",
+      "last2": "01",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-04-16",
+      "first": "825988",
+      "last2": "44",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-05-02",
+      "first": "054136",
+      "last2": "85",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-05-16",
+      "first": "406417",
+      "last2": "05",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-06-01",
+      "first": "562370",
+      "last2": "46",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-06-16",
+      "first": "351276",
+      "last2": "88",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-07-01",
+      "first": "622953",
+      "last2": "51",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-07-16",
+      "first": "116556",
+      "last2": "12",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-08-01",
+      "first": "218756",
+      "last2": "12",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-08-16",
+      "first": "536960",
+      "last2": "62",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-09-01",
+      "first": "724533",
+      "last2": "85",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-09-16",
+      "first": "731198",
+      "last2": "28",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-10-01",
+      "first": "511052",
+      "last2": "15",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-10-16",
+      "first": "955756",
+      "last2": "83",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-11-01",
+      "first": "805540",
+      "last2": "54",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-11-16",
+      "first": "997777",
+      "last2": "57",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-12-01",
+      "first": "408147",
+      "last2": "02",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-12-16",
+      "first": "884178",
+      "last2": "21",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2011-12-30",
+      "first": "526402",
+      "last2": "65",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-01-16",
+      "first": "451445",
+      "last2": "81",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-02-01",
+      "first": "320605",
+      "last2": "32",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-02-16",
+      "first": "648684",
+      "last2": "18",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-03-01",
+      "first": "222518",
+      "last2": "79",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-03-16",
+      "first": "607064",
+      "last2": "08",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-04-01",
+      "first": "257562",
+      "last2": "69",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-04-16",
+      "first": "583470",
+      "last2": "62",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-05-02",
+      "first": "889501",
+      "last2": "29",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-05-16",
+      "first": "814418",
+      "last2": "31",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-06-01",
+      "first": "882727",
+      "last2": "38",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-06-16",
+      "first": "159373",
+      "last2": "51",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-07-01",
+      "first": "915900",
+      "last2": "60",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-07-16",
+      "first": "904050",
+      "last2": "11",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-08-01",
+      "first": "895590",
+      "last2": "50",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-08-16",
+      "first": "683877",
+      "last2": "28",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-09-01",
+      "first": "329997",
+      "last2": "07",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-09-16",
+      "first": "540143",
+      "last2": "79",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-10-01",
+      "first": "124025",
+      "last2": "58",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-10-16",
+      "first": "281343",
+      "last2": "28",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-11-01",
+      "first": "524694",
+      "last2": "63",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-11-16",
+      "first": "639500",
+      "last2": "15",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-12-01",
+      "first": "110443",
+      "last2": "43",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-12-16",
+      "first": "529524",
+      "last2": "72",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2012-12-30",
+      "first": "302358",
+      "last2": "00",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-01-16",
+      "first": "820981",
+      "last2": "08",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-02-01",
+      "first": "565566",
+      "last2": "66",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-02-16",
+      "first": "368257",
+      "last2": "09",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-03-01",
+      "first": "976241",
+      "last2": "37",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-03-16",
+      "first": "968433",
+      "last2": "52",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-04-01",
+      "first": "571688",
+      "last2": "53",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-04-16",
+      "first": "843846",
+      "last2": "86",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-05-02",
+      "first": "603458",
+      "last2": "07",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-05-16",
+      "first": "687125",
+      "last2": "56",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-06-01",
+      "first": "935489",
+      "last2": "90",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-06-16",
+      "first": "289673",
+      "last2": "69",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-07-01",
+      "first": "646905",
+      "last2": "51",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-07-16",
+      "first": "566996",
+      "last2": "86",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-08-01",
+      "first": "356435",
+      "last2": "82",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-08-16",
+      "first": "321327",
+      "last2": "20",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-09-01",
+      "first": "548123",
+      "last2": "05",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-09-16",
+      "first": "562684",
+      "last2": "63",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-10-01",
+      "first": "647882",
+      "last2": "14",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-10-16",
+      "first": "963289",
+      "last2": "60",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-11-01",
+      "first": "739804",
+      "last2": "47",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-11-16",
+      "first": "806925",
+      "last2": "28",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-12-01",
+      "first": "168795",
+      "last2": "27",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-12-16",
+      "first": "341767",
+      "last2": "79",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2013-12-30",
+      "first": "561072",
+      "last2": "48",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-01-16",
+      "first": "306902",
+      "last2": "52",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-02-01",
+      "first": "180149",
+      "last2": "95",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-02-16",
+      "first": "384245",
+      "last2": "01",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-03-01",
+      "first": "906318",
+      "last2": "35",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-03-16",
+      "first": "531404",
+      "last2": "79",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-04-01",
+      "first": "028866",
+      "last2": "95",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-04-16",
+      "first": "153406",
+      "last2": "26",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-05-02",
+      "first": "103297",
+      "last2": "52",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-05-16",
+      "first": "087523",
+      "last2": "20",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-06-01",
+      "first": "781198",
+      "last2": "18",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-06-16",
+      "first": "673920",
+      "last2": "95",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-07-01",
+      "first": "378477",
+      "last2": "39",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-07-16",
+      "first": "468728",
+      "last2": "45",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-08-01",
+      "first": "766391",
+      "last2": "82",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-08-16",
+      "first": "662842",
+      "last2": "91",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-09-01",
+      "first": "856763",
+      "last2": "22",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-09-16",
+      "first": "772269",
+      "last2": "35",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-10-01",
+      "first": "375615",
+      "last2": "44",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-10-16",
+      "first": "656409",
+      "last2": "94",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-11-01",
+      "first": "206608",
+      "last2": "44",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-11-16",
+      "first": "479804",
+      "last2": "25",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-12-01",
+      "first": "480449",
+      "last2": "11",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-12-16",
+      "first": "948354",
+      "last2": "90",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2014-12-30",
+      "first": "461704",
+      "last2": "57",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-01-16",
+      "first": "244351",
+      "last2": "74",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-02-01",
+      "first": "155537",
+      "last2": "79",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-02-16",
+      "first": "001864",
+      "last2": "90",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-03-01",
+      "first": "240237",
+      "last2": "34",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-03-16",
+      "first": "048151",
+      "last2": "92",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-04-01",
+      "first": "605704",
+      "last2": "70",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-04-16",
+      "first": "506260",
+      "last2": "38",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-05-02",
+      "first": "543466",
+      "last2": "30",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-05-16",
+      "first": "011421",
+      "last2": "38",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-06-02",
+      "first": "388881",
+      "last2": "65",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-06-16",
+      "first": "644742",
+      "last2": "05",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-07-01",
+      "first": "759049",
+      "last2": "26",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-07-16",
+      "first": "121507",
+      "last2": "49",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-08-01",
+      "first": "518677",
+      "last2": "53",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-08-16",
+      "first": "033363",
+      "last2": "40",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-09-01",
+      "first": "021094",
+      "last2": "89",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-09-16",
+      "first": "743148",
+      "last2": "06",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-10-01",
+      "first": "594825",
+      "last2": "07",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-10-16",
+      "first": "968630",
+      "last2": "62",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-11-01",
+      "first": "361211",
+      "last2": "45",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-11-16",
+      "first": "795283",
+      "last2": "03",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-12-01",
+      "first": "915350",
+      "last2": "78",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-12-17",
+      "first": "930255",
+      "last2": "08",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2015-12-30",
+      "first": "008217",
+      "last2": "02",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-01-17",
+      "first": "304371",
+      "last2": "50",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-02-01",
+      "first": "927800",
+      "last2": "09",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-02-16",
+      "first": "356364",
+      "last2": "98",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-03-01",
+      "first": "439686",
+      "last2": "06",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-03-16",
+      "first": "134918",
+      "last2": "32",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-04-01",
+      "first": "066720",
+      "last2": "92",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-04-16",
+      "first": "221609",
+      "last2": "87",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-05-02",
+      "first": "399459",
+      "last2": "02",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-05-16",
+      "first": "141737",
+      "last2": "98",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-06-01",
+      "first": "511825",
+      "last2": "14",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-06-16",
+      "first": "073816",
+      "last2": "79",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-07-01",
+      "first": "082460",
+      "last2": "53",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-07-16",
+      "first": "449764",
+      "last2": "55",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-08-01",
+      "first": "272932",
+      "last2": "57",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-08-16",
+      "first": "254004",
+      "last2": "33",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-09-01",
+      "first": "638684",
+      "last2": "62",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-09-16",
+      "first": "240650",
+      "last2": "42",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-10-01",
+      "first": "887102",
+      "last2": "33",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-10-16",
+      "first": "571947",
+      "last2": "98",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-11-01",
+      "first": "785438",
+      "last2": "86",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-11-16",
+      "first": "858383",
+      "last2": "44",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-12-01",
+      "first": "086069",
+      "last2": "77",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-12-16",
+      "first": "435286",
+      "last2": "35",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2016-12-30",
+      "first": "377712",
+      "last2": "46",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-01-17",
+      "first": "145157",
+      "last2": "25",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-02-01",
+      "first": "054672",
+      "last2": "42",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-02-16",
+      "first": "229116",
+      "last2": "14",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-03-01",
+      "first": "978453",
+      "last2": "78",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-03-16",
+      "first": "273863",
+      "last2": "92",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-04-01",
+      "first": "392785",
+      "last2": "80",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-04-16",
+      "first": "816729",
+      "last2": "40",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-05-02",
+      "first": "008656",
+      "last2": "35",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-05-16",
+      "first": "454891",
+      "last2": "53",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-06-01",
+      "first": "053630",
+      "last2": "61",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-06-16",
+      "first": "943142",
+      "last2": "47",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-07-01",
+      "first": "112360",
+      "last2": "26",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-07-16",
+      "first": "820327",
+      "last2": "87",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-08-01",
+      "first": "756519",
+      "last2": "36",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-08-16",
+      "first": "715431",
+      "last2": "37",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-09-01",
+      "first": "143224",
+      "last2": "65",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-09-16",
+      "first": "170143",
+      "last2": "71",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-10-01",
+      "first": "880714",
+      "last2": "52",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-10-16",
+      "first": "413494",
+      "last2": "86",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-11-01",
+      "first": "533726",
+      "last2": "85",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-11-16",
+      "first": "292391",
+      "last2": "98",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-12-01",
+      "first": "451005",
+      "last2": "33",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-12-16",
+      "first": "955596",
+      "last2": "89",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2017-12-30",
+      "first": "911234",
+      "last2": "98",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-01-17",
+      "first": "203823",
+      "last2": "50",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-02-01",
+      "first": "026853",
+      "last2": "31",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-02-16",
+      "first": "309915",
+      "last2": "39",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-03-02",
+      "first": "759415",
+      "last2": "29",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-03-16",
+      "first": "218559",
+      "last2": "82",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-04-01",
+      "first": "412073",
+      "last2": "85",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-04-16",
+      "first": "739229",
+      "last2": "60",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-05-02",
+      "first": "248038",
+      "last2": "85",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-05-16",
+      "first": "075629",
+      "last2": "20",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-06-01",
+      "first": "988117",
+      "last2": "95",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-06-16",
+      "first": "223131",
+      "last2": "46",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-07-01",
+      "first": "963623",
+      "last2": "83",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-07-16",
+      "first": "596324",
+      "last2": "27",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-08-01",
+      "first": "386602",
+      "last2": "78",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-08-16",
+      "first": "586117",
+      "last2": "10",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-09-01",
+      "first": "734510",
+      "last2": "26",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-09-16",
+      "first": "149760",
+      "last2": "79",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-10-01",
+      "first": "452643",
+      "last2": "99",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-10-16",
+      "first": "200515",
+      "last2": "93",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-11-01",
+      "first": "149840",
+      "last2": "58",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-11-16",
+      "first": "989903",
+      "last2": "16",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-12-01",
+      "first": "021840",
+      "last2": "67",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-12-16",
+      "first": "356564",
+      "last2": "62",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2018-12-30",
+      "first": "735867",
+      "last2": "02",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-01-17",
+      "first": "197079",
+      "last2": "65",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-02-01",
+      "first": "967134",
+      "last2": "04",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-02-16",
+      "first": "074824",
+      "last2": "56",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-03-01",
+      "first": "345650",
+      "last2": "65",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-03-16",
+      "first": "724628",
+      "last2": "64",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-04-01",
+      "first": "109767",
+      "last2": "52",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-04-16",
+      "first": "570331",
+      "last2": "23",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-05-02",
+      "first": "061324",
+      "last2": "25",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-05-16",
+      "first": "962526",
+      "last2": "71",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-06-01",
+      "first": "516461",
+      "last2": "46",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-06-16",
+      "first": "174055",
+      "last2": "29",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-07-01",
+      "first": "943647",
+      "last2": "86",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-07-15",
+      "first": "369765",
+      "last2": "88",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-08-01",
+      "first": "387006",
+      "last2": "58",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-08-16",
+      "first": "775476",
+      "last2": "89",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-09-01",
+      "first": "798787",
+      "last2": "20",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-09-16",
+      "first": "340388",
+      "last2": "85",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-10-01",
+      "first": "691197",
+      "last2": "59",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-10-16",
+      "first": "812564",
+      "last2": "15",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-11-01",
+      "first": "967375",
+      "last2": "79",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-11-16",
+      "first": "017223",
+      "last2": "32",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-12-01",
+      "first": "453522",
+      "last2": "81",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-12-16",
+      "first": "529924",
+      "last2": "97",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2019-12-30",
+      "first": "510541",
+      "last2": "81",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-01-17",
+      "first": "491774",
+      "last2": "68",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-02-01",
+      "first": "589227",
+      "last2": "06",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-02-16",
+      "first": "781403",
+      "last2": "94",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-03-01",
+      "first": "875938",
+      "last2": "98",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-03-16",
+      "first": "503446",
+      "last2": "77",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-04-01",
+      "first": "051095",
+      "last2": "22",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-06-01",
+      "first": "831567",
+      "last2": "24",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-06-16",
+      "first": "516967",
+      "last2": "64",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-07-01",
+      "first": "347258",
+      "last2": "83",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-07-16",
+      "first": "873286",
+      "last2": "53",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-08-01",
+      "first": "569391",
+      "last2": "92",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-08-16",
+      "first": "945811",
+      "last2": "88",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-09-01",
+      "first": "999997",
+      "last2": "98",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-09-16",
+      "first": "244083",
+      "last2": "57",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-10-01",
+      "first": "837893",
+      "last2": "59",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-10-16",
+      "first": "286051",
+      "last2": "38",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-11-01",
+      "first": "506404",
+      "last2": "40",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-11-16",
+      "first": "972661",
+      "last2": "46",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-12-01",
+      "first": "100994",
+      "last2": "84",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-12-16",
+      "first": "201303",
+      "last2": "70",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2020-12-30",
+      "first": "803628",
+      "last2": "19",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-01-17",
+      "first": "384395",
+      "last2": "15",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-02-01",
+      "first": "912307",
+      "last2": "97",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-02-16",
+      "first": "424603",
+      "last2": "39",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-03-01",
+      "first": "835538",
+      "last2": "73",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-03-16",
+      "first": "890422",
+      "last2": "19",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-04-01",
+      "first": "472270",
+      "last2": "05",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-04-16",
+      "first": "100787",
+      "last2": "56",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-05-02",
+      "first": "501272",
+      "last2": "18",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-05-16",
+      "first": "684579",
+      "last2": "14",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-06-01",
+      "first": "292972",
+      "last2": "45",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-06-16",
+      "first": "691861",
+      "last2": "17",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-07-01",
+      "first": "713517",
+      "last2": "29",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-07-16",
+      "first": "556725",
+      "last2": "70",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-08-01",
+      "first": "910261",
+      "last2": "69",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-08-16",
+      "first": "046750",
+      "last2": "23",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-09-01",
+      "first": "114475",
+      "last2": "79",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-09-16",
+      "first": "070935",
+      "last2": "90",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-10-01",
+      "first": "578171",
+      "last2": "83",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-10-16",
+      "first": "386372",
+      "last2": "38",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-11-01",
+      "first": "045037",
+      "last2": "95",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-11-16",
+      "first": "032761",
+      "last2": "57",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-12-01",
+      "first": "077258",
+      "last2": "82",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-12-16",
+      "first": "639235",
+      "last2": "83",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2021-12-30",
+      "first": "819068",
+      "last2": "36",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-01-17",
+      "first": "880159",
+      "last2": "92",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-02-01",
+      "first": "944308",
+      "last2": "30",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-02-17",
+      "first": "098597",
+      "last2": "57",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-03-01",
+      "first": "061905",
+      "last2": "07",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-03-16",
+      "first": "737867",
+      "last2": "03",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-04-01",
+      "first": "970618",
+      "last2": "10",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-04-16",
+      "first": "395919",
+      "last2": "58",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-05-02",
+      "first": "658642",
+      "last2": "09",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-05-16",
+      "first": "155012",
+      "last2": "06",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-06-01",
+      "first": "319196",
+      "last2": "02",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-06-16",
+      "first": "361807",
+      "last2": "92",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-07-01",
+      "first": "981417",
+      "last2": "61",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-07-16",
+      "first": "620405",
+      "last2": "53",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-08-01",
+      "first": "436594",
+      "last2": "14",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-08-16",
+      "first": "331583",
+      "last2": "42",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-09-01",
+      "first": "929332",
+      "last2": "83",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-09-16",
+      "first": "943703",
+      "last2": "75",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-10-01",
+      "first": "484669",
+      "last2": "50",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-10-16",
+      "first": "613106",
+      "last2": "15",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-11-01",
+      "first": "913106",
+      "last2": "70",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-11-16",
+      "first": "121789",
+      "last2": "64",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-12-01",
+      "first": "375805",
+      "last2": "08",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-12-16",
+      "first": "845093",
+      "last2": "14",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2022-12-30",
+      "first": "157196",
+      "last2": "58",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-01-17",
+      "first": "812519",
+      "last2": "47",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-02-01",
+      "first": "297411",
+      "last2": "92",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-02-16",
+      "first": "590417",
+      "last2": "80",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-03-01",
+      "first": "417652",
+      "last2": "55",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-03-16",
+      "first": "025873",
+      "last2": "73",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-04-01",
+      "first": "087907",
+      "last2": "99",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-04-16",
+      "first": "984906",
+      "last2": "71",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-05-02",
+      "first": "843019",
+      "last2": "65",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-05-16",
+      "first": "132903",
+      "last2": "99",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-06-01",
+      "first": "125272",
+      "last2": "09",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-06-16",
+      "first": "264872",
+      "last2": "30",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-07-01",
+      "first": "922605",
+      "last2": "16",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-07-16",
+      "first": "169530",
+      "last2": "62",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-07-31",
+      "first": "260453",
+      "last2": "11",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-08-16",
+      "first": "471782",
+      "last2": "67",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-09-01",
+      "first": "915478",
+      "last2": "91",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-09-16",
+      "first": "320812",
+      "last2": "46",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-10-01",
+      "first": "727202",
+      "last2": "66",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-10-16",
+      "first": "931446",
+      "last2": "44",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-11-01",
+      "first": "743951",
+      "last2": "63",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-11-16",
+      "first": "557990",
+      "last2": "14",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-12-01",
+      "first": "251097",
+      "last2": "91",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-12-16",
+      "first": "356757",
+      "last2": "85",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2023-12-30",
+      "first": "625544",
+      "last2": "89",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-01-17",
+      "first": "105979",
+      "last2": "61",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-02-01",
+      "first": "607063",
+      "last2": "09",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-02-16",
+      "first": "941395",
+      "last2": "43",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-03-01",
+      "first": "253603",
+      "last2": "79",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-03-16",
+      "first": "997626",
+      "last2": "78",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-04-01",
+      "first": "803481",
+      "last2": "90",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-04-16",
+      "first": "943598",
+      "last2": "79",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-05-02",
+      "first": "980116",
+      "last2": "17",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-05-16",
+      "first": "205690",
+      "last2": "60",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-06-01",
+      "first": "530593",
+      "last2": "42",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-06-16",
+      "first": "518504",
+      "last2": "31",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-07-01",
+      "first": "434503",
+      "last2": "89",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-07-16",
+      "first": "367336",
+      "last2": "21",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-08-01",
+      "first": "407041",
+      "last2": "46",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-08-16",
+      "first": "095867",
+      "last2": "28",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-09-01",
+      "first": "199606",
+      "last2": "94",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-09-16",
+      "first": "608662",
+      "last2": "37",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-10-01",
+      "first": "718665",
+      "last2": "59",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-10-16",
+      "first": "482962",
+      "last2": "00",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-11-01",
+      "first": "536044",
+      "last2": "32",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-11-16",
+      "first": "187221",
+      "last2": "38",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-12-01",
+      "first": "669843",
+      "last2": "61",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2024-12-16",
+      "first": "097863",
+      "last2": "21",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-01-02",
+      "first": "730209",
+      "last2": "51",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-01-17",
+      "first": "807779",
+      "last2": "23",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-02-01",
+      "first": "558700",
+      "last2": "51",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-02-16",
+      "first": "847377",
+      "last2": "50",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-03-01",
+      "first": "818894",
+      "last2": "54",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-03-16",
+      "first": "757563",
+      "last2": "32",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-04-01",
+      "first": "669687",
+      "last2": "36",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-04-16",
+      "first": "266227",
+      "last2": "85",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-05-02",
+      "first": "213388",
+      "last2": "06",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-05-16",
+      "first": "251309",
+      "last2": "87",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-06-01",
+      "first": "559352",
+      "last2": "20",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-06-16",
+      "first": "507392",
+      "last2": "06",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-07-01",
+      "first": "949246",
+      "last2": "91",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-07-16",
+      "first": "245324",
+      "last2": "26",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-08-01",
+      "first": "811852",
+      "last2": "50",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-08-16",
+      "first": "994865",
+      "last2": "63",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-09-01",
+      "first": "506356",
+      "last2": "31",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-09-16",
+      "first": "074646",
+      "last2": "58",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-10-01",
+      "first": "876978",
+      "last2": "77",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-10-16",
+      "first": "059696",
+      "last2": "61",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-11-01",
+      "first": "345898",
+      "last2": "87",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-11-16",
+      "first": "458145",
+      "last2": "37",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-12-01",
+      "first": "461252",
+      "last2": "22",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2025-12-16",
+      "first": "763895",
+      "last2": "52",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-01-02",
+      "first": "837706",
+      "last2": "16",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-01-17",
+      "first": "878972",
+      "last2": "02",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-02-01",
+      "first": "174629",
+      "last2": "48",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-02-16",
+      "first": "340563",
+      "last2": "07",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-03-01",
+      "first": "820866",
+      "last2": "06",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-03-16",
+      "first": "833009",
+      "last2": "64",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-04-01",
+      "first": "292514",
+      "last2": "47",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-04-16",
+      "first": "309612",
+      "last2": "77",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-05-02",
+      "first": "536077",
+      "last2": "43",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-05-16",
+      "first": "107387",
+      "last2": "08",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-06-01",
+      "first": "173770",
+      "last2": "95",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-06-16",
+      "first": "287184",
+      "last2": "48",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-07-01",
+      "first": "751495",
+      "last2": "62",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-07-16",
+      "first": "639214",
+      "last2": "71",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-08-01",
+      "first": "932479",
+      "last2": "69",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-08-16",
+      "first": "004615",
+      "last2": "53",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-09-01",
+      "first": "417212",
+      "last2": "04",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-09-16",
+      "first": "730640",
+      "last2": "64",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-10-01",
+      "first": "402701",
+      "last2": "70",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    },
+    {
+      "date": "2026-10-16",
+      "first": "011781",
+      "last2": "48",
+      "source": "glo",
+      "sourceUrl": "https://www.glo.or.th"
+    }
+  ],
+  "fetchedAt": "2026-10-19T06:48:02.927986+00:00",
+  "gloTotal": 397
+}

@@ -1,0 +1,1 @@
+{"profile":"product-admin","sourceRoots":["src"],"locale":"th-TH","canonicalMap":"UX-CONTRACT.md","requiredCapabilities":["Table Selection","Date","Form","Scrollbar","Toast"],"ownership":{"Date":"native"},"requiredCommands":["unit","build"],"commands":{"unit":"npm test","build":"npm run build"}}
