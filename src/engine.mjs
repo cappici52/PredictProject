@@ -1,3 +1,4 @@
+import {sixPrimary,sixRanked,sixDistributions,validateSixModels,SIX_MODEL_DESCRIPTIONS} from './six-engine.mjs';
 export const MODEL_NAMES = { frequency: 'ความถี่สะสม', recent: 'ความถี่ถ่วงน้ำหนัก 48 งวด', digits: 'ความถี่รายหลัก', transition: 'ความสัมพันธ์กับงวดก่อน' };
 export const MODELS = Object.keys(MODEL_NAMES);
 export function validDraw(row) {
@@ -41,13 +42,10 @@ export function rank(probabilities) {
   return probabilities.map((score,number) => ({number: String(number).padStart(2,'0'),score})).sort((a,b) => b.score-a.score || a.number.localeCompare(b.number));
 }
 export function sixDigits(draws, previous = draws.at(-1)) {
-  return Array.from({length:6},(_,position) => {
-    const counts=Array(10).fill(1);
-    for (const row of draws) counts[Number(row.first[position])]++;
-    // Fixed deterministic tie-breaking. Previous result contributes only where transitions exist.
-    for (let i=1;i<draws.length;i++) if(draws[i-1].first[position] === previous?.first?.[position]) counts[Number(draws[i].first[position])] += 0.25;
-    return counts.indexOf(Math.max(...counts));
-  }).join('');
+  return sixPrimary(draws,'legacy',previous);
+}
+export function rankSixDigits(draws, previous = draws.at(-1)) {
+  return sixRanked(draws,previous,'legacy');
 }
 export function validateModels(draws) {
   if (draws.length < 60) return null;
@@ -63,19 +61,21 @@ export function validateModels(draws) {
     return {model,hits,total:holdoutStart-selectionStart,loss:loss/(holdoutStart-selectionStart)};
   }).sort((a,b)=>a.loss-b.loss || MODELS.indexOf(a.model)-MODELS.indexOf(b.model));
   const chosen = comparisons[0].model;
-  let hits=0, sixHits=0;
+  let hits=0, topTenHits=0, sixHits=0;
   for(let i=holdoutStart;i<draws.length;i++) {
     const train=draws.slice(0,i);
-    if(rank(scores(train,chosen)).slice(0,2).some(x=>x.number===draws[i].last2)) hits++;
+    const ranked=rank(scores(train,chosen));
+    if(ranked.slice(0,2).some(x=>x.number===draws[i].last2)) hits++;
+    if(ranked.slice(0,10).some(x=>x.number===draws[i].last2)) topTenHits++;
     if(sixDigits(train)===draws[i].first) sixHits++;
   }
-  return {chosen,comparisons,hits,sixHits,total:draws.length-holdoutStart,holdoutFrom:draws[holdoutStart].date,holdoutTo:draws.at(-1).date};
+  return {chosen,comparisons,hits,topTenHits,sixHits,total:draws.length-holdoutStart,holdoutFrom:draws[holdoutStart].date,holdoutTo:draws.at(-1).date};
 }
 export function analyze(draws, context, validation = validateModels(draws)) {
-  if(draws.length<60) throw new Error('ต้องมีข้อมูลอย่างน้อย 60 งวดเพื่อเปรียบเทียบสูตร');
-  const model=validation.chosen;
+  if(!draws.length) throw new Error('ไม่พบข้อมูลในช่วงที่เลือก ลองเพิ่มจำนวนปีหรือเปลี่ยนวันที่งวดก่อนหน้า');
+  const model=validation?.chosen || 'frequency';
   const counts=countsOf(draws);
-  const candidates=rank(scores(draws,model,context)).slice(0,2).map(item=>{
+  const topTen=rank(scores(draws,model,context)).slice(0,10).map(item=>{
     const count=counts[Number(item.number)];
     let reason;
     if(model==='digits') {
@@ -92,5 +92,12 @@ export function analyze(draws, context, validation = validateModels(draws)) {
     return {...item,count,reason,latest:draws.findLast(row=>row.last2===item.number)?.date || null};
   });
   const transitionSamples = draws.slice(0,-1).filter(d=>d.last2===context.last2).length;
-  return {model,candidates,first:sixDigits(draws,context),validation,transitionSamples,trainingCount:draws.length,asOf:draws.at(-1).date,context};
+  const sixValidation=validateSixModels(draws);
+  const sixModel=sixValidation?.chosen || 'smoothed';
+  const allEqual=id=>sixDistributions(draws,id,context).every(weights=>Math.max(...weights)-Math.min(...weights)<1e-12);
+  const sixNoRanking=allEqual(sixModel);
+  const sixTopTen=sixNoRanking?[]:sixRanked(draws,context,sixModel);
+  const alternativeModel=sixModel==='uniform'?sixValidation.statisticalChosen:null;
+  const sixAlternative=alternativeModel && !allEqual(alternativeModel)?{model:alternativeModel,description:SIX_MODEL_DESCRIPTIONS[alternativeModel],topTen:sixRanked(draws,context,alternativeModel),evaluation:sixValidation.statistical}:null;
+  return {model,candidates:topTen.slice(0,2),topTen,sixTopTen,sixNoRanking,sixAlternative,sixModel,sixValidation,sixDescription:SIX_MODEL_DESCRIPTIONS[sixModel],first:sixTopTen[0]?.number || null,validation,transitionSamples,trainingCount:draws.length,asOf:draws.at(-1).date,context};
 }
